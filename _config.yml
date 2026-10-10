@@ -1,0 +1,12 @@
+# Site settings
+title: Noesis Forge
+email: noesisforge@proton.me
+description: Software research, design and development services.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://noesis-forge.gr" 
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
